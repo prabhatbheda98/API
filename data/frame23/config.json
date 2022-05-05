@@ -1,0 +1,272 @@
+{
+	"1080x1920": {
+		"logo": {
+			"x": 89,
+			"y": 89,
+			"maxWidth": 154,
+			"maxHeight": 169
+		},
+		"watermark":{
+			"x": 825,
+			"y": -20,
+			"maxWidth": 168,
+			"maxHeight": 182
+		},
+		"name": {
+			"x": 782,
+			"y": 156,
+			"font-size": "24px",
+			"font-color": "#2e2e2e",
+			"font-family": "roboto"
+		},
+		"phone": {
+			"icon": {
+				"x": 86,
+				"y": 1848
+			},
+			"x": 150,
+			"y": 1872,
+			"font-size": "20px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		},
+		"email": {
+			"icon": {
+				"x": 354,
+				"y": 1848
+			},
+			"x": 490,
+			"y": 1872,
+			"font-size": "20px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "roboto"
+		},
+		"website": {
+			"icon": {
+				"x": 752,
+				"y": 1848
+			},
+			"x": 890,
+			"y": 1872,
+			"font-size": "20px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		}
+	},
+	"1200x630": {
+		"logo": {
+			"x": 53,
+			"y": 53,
+			"maxWidth": 88,
+			"maxHeight": 95
+		},
+		"watermark":{
+			"x": 960,
+			"y": -40,
+			"maxWidth": 168,
+			"maxHeight": 182
+		},
+		"name": {
+			"x": 989,
+			"y": 95,
+			"font-size": "17px",
+			"font-color": "#2e2e2e",
+			"font-family": "roboto"
+		},
+		"phone": {
+			"icon": {
+				"x": 97,
+				"y": 562
+			},
+			"x": 175,
+			"y": 585,
+			"font-size": "22px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		},
+		"email": {
+			"icon": {
+				"x": 392,
+				"y": 562
+			},
+			"x": 545,
+			"y": 585,
+			"font-size": "22px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "roboto"
+		},
+		"website": {
+			"icon": {
+				"x": 838,
+				"y": 562
+			},
+			"x": 990,
+			"y": 585,
+			"font-size": "22px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		}
+	},
+	"1080x1080": {
+		"logo": {
+			"x": 64,
+			"y": 53,
+			"maxWidth": 123,
+			"maxHeight": 132
+		},
+		"watermark":{
+			"x": 825,
+			"y": -35,
+			"maxWidth": 168,
+			"maxHeight": 182
+		},
+		"name": {
+			"x": 835,
+			"y": 115,
+			"font-size": "19px",
+			"font-color": "#2e2e2e",
+			"font-family": "roboto"
+		},
+		"phone": {
+			"icon": {
+				"x": 96,
+				"y": 1013
+			},
+			"x": 155,
+			"y": 1037,
+			"font-size": "20px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		},
+		"email": {
+			"icon": {
+				"x": 357,
+				"y": 1013
+			},
+			"x": 530,
+			"y": 1037,
+			"font-size": "20px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "roboto"
+		},
+		"website": {
+			"icon": {
+				"x": 750,
+				"y": 1013
+			},
+			"x": 900,
+			"y": 1037,
+			"font-size": "20px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		}
+	},
+	"1200x675": {
+		"logo": {
+			"x": 53,
+			"y": 53,
+			"maxWidth": 88,
+			"maxHeight": 95
+		},
+		"watermark":{
+			"x": 955,
+			"y": -40,
+			"maxWidth": 168,
+			"maxHeight": 182
+		},
+		"name": {
+			"x": 993,
+			"y": 97,
+			"font-size": "20px",
+			"font-color": "#2e2e2e",
+			"font-family": "arial"
+		},
+		"phone": {
+			"icon": {
+				"x": 97,
+				"y": 608
+			},
+			"x": 175,
+			"y": 633,
+			"font-size": "22px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "arial"
+		},
+		"email": {
+			"icon": {
+				"x": 392,
+				"y": 608
+			},
+			"x": 540,
+			"y": 633,
+			"font-size": "22px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "arial"
+		},
+		"website": {
+			"icon": {
+				"x": 839,
+				"y": 608
+			},
+			"x": 990,
+			"y": 633,
+			"font-size": "22px",
+			"font-color":"rgb(255, 255, 255)",
+			"font-family": "arial"
+		}
+	},
+	"1200x1200": {
+		"logo": {
+			"x": 67,
+			"y": 65,
+			"maxWidth": 149,
+			"maxHeight": 161
+		},
+		"watermark":{
+			"x": 940,
+			"y": -22,
+			"maxWidth": 168,
+			"maxHeight": 182
+		},
+		"name": {
+			"x": 929,
+			"y": 134,
+			"font-size": "22px",
+			"font-color": "#2e2e2e",
+			"font-family": "arial"
+		},
+		"phone": {
+			"icon": {
+				"x": 102,
+				"y": 1142
+			},
+			"x": 160,
+			"y": 1167,
+			"font-size": "22px",
+			"font-color":  "rgb(255, 255, 255)",
+			"font-family": "arial"
+		},
+		"email": {
+			"icon": {
+				"x": 394,
+				"y": 1142
+			},
+			"x": 555,
+			"y": 1167,
+			"font-size": "22px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "arial"
+		},
+		"website": {
+			"icon": {
+				"x": 836,
+				"y": 1142
+			},
+			"x": 985,
+			"y": 1167,
+			"font-size": "22px",
+			"font-color":  "rgb(255, 255, 255)",
+			"font-family": "arial"
+		}
+	}
+}

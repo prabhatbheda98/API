@@ -1,0 +1,228 @@
+{
+	"1080x1920": {
+		"logo": {
+			"x": 43,
+			"y": 43,
+			"maxWidth": 130,
+			"maxHeight": 130,
+			"font-size": "25px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "roboto"
+		},
+		"watermark":{
+			"x": 845,
+			"y": -55,
+			"maxWidth": 199,
+			"maxHeight": 77
+		},
+		"email": {
+			"x": 141,
+			"y": 1800,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		},
+		"website": {
+			"x": 530,
+			"y": 1800,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		},
+		"phone": {
+			"x": 884,
+			"y": 1800,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"	
+		},
+		"address": {
+			"x": 369,
+			"y": 1857,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		}
+	},
+	"1200x630": {
+		"logo": {
+			"x": 33,
+			"y": 24,
+			"maxWidth": 99,
+			"maxHeight": 107,
+			"font-size": "25px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "roboto"
+
+		},
+		"watermark":{
+			"x": 965,
+			"y": -65,
+			"maxWidth": 199,
+			"maxHeight": 77
+		},
+		"email": {
+			"x": 147,
+			"y": 528,
+			"font-size": "23px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "roboto" 
+		},
+		"website": {
+			"x": 589,
+			"y": 528,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		},
+		"phone": {
+			"x": 991,
+			"y": 528,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		},
+		"address": {
+			"x": 405,
+			"y": 591,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		}
+	},
+	"1080x1080": {
+		"logo": {
+			"x": 34,
+			"y": 34,
+			"maxWidth": 125,
+			"maxHeight": 135,
+			"font-size": "25px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "roboto"
+		},
+		"watermark":{
+			"x": 845,
+			"y": -55,
+			"maxWidth": 199,
+			"maxHeight": 77
+		},
+		"email": {
+			"x": 141,
+			"y": 971,
+			"font-size": "23px",
+			"font-color":"rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		},
+		"website": {
+			"x": 530,
+			"y": 971,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		},
+		"phone": {
+			"x": 853,
+			"y": 971,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		},
+		"address": {
+			"x": 368,
+			"y": 1028,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		}
+	},
+	"1200x675": {
+		"logo": {
+			"x": 38,
+			"y": 31,
+			"maxWidth": 100,
+			"maxHeight": 108,
+			"font-size": "25px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "roboto"
+		},
+		"watermark":{
+			"x": 965,
+			"y": -65,
+			"maxWidth": 199,
+			"maxHeight": 77
+		},
+		"email": {
+			"x": 141,
+			"y": 575,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		},
+		"website": {
+			"x": 530,
+			"y": 575,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		},
+		"phone": {
+			"x": 883,
+			"y": 575,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		},
+		"address": {
+			"x": 368,
+			"y": 635,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		}
+	},
+	"1200x1200": {
+		"logo": {
+			"x": 45,
+			"y": 41,
+			"maxWidth": 138,
+			"maxHeight": 149,
+			"font-size": "25px",
+			"font-color": "rgb(255,160,122)",
+			"font-family": "roboto"
+		},
+		"watermark":{
+			"x": 965,
+			"y": -55,
+			"maxWidth": 199,
+			"maxHeight": 77
+		},
+		"email": {
+			"x": 147,
+			"y": 1082,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		},
+		"website": {
+			"x": 589,
+			"y": 1082,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		},
+		"phone": {
+			"x": 991,
+			"y": 1082,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto"
+		},
+		"address": {
+			"x": 405,
+			"y": 1145,
+			"font-size": "23px",
+			"font-color": "rgb(255, 255, 255)",
+			"font-family": "roboto" 
+		}
+	}
+}
